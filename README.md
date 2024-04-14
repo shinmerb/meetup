@@ -19,5 +19,15 @@
 VSCodeのLiveShareを利用してモブプロ形式でRubyやRailsについてみんなで学びます。
 
 ### このリポジトリの扱い方
-
+- リポジトリをForkしてcloneしてください。
 - このリポジトリにあるファイルを変更するときには、main ブランチに Pull request を送っていただき、それを merge するという流れで運用します。
+
+### 初めて参加される方へ
+しんめ.rbでは参加される方同士の交流を大切にしたいと考えています。
+もし良ければmembers配下にあるテンプレートを利用してPersonal Wikiを作成いただけると嬉しいです。
+
+https://github.com/shinmerb/meetup/tree/main/members
+
+個人情報以外の書ける範囲の内容で構いません。
+
+※リポジトリに反映後は完全にデータを消去はできないため、Personal Wikiの作成は任意です。
