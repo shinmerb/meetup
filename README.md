@@ -31,3 +31,7 @@ https://github.com/shinmerb/meetup/tree/main/members
 個人情報以外の書ける範囲の内容で構いません。
 
 ※リポジトリに反映後は完全にデータを消去はできないため、Personal Wikiの作成は任意です。
+
+### しんめ.rbのロゴについて
+
+Rubyと新芽を組み合わせたロゴをデザイナーの[moegi](https://twitter.com/moegi_web)さんに作成いただきました。
