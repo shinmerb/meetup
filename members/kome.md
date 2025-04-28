@@ -1,4 +1,4 @@
-# Personal 　 Wiki（テンプレート）
+# Personal 　 Wiki
 
 ## 名前
 
